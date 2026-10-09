@@ -6,10 +6,10 @@ I focus on creating environments where teams thrive through clarity, competence,
 
 With 25+ years of experience across North America and Europe, I’ve led and coached hundreds of engineers and contributed to the growth of three unicorns, including two successful exits.
 
-💥 Impact-driven leader focused on people, technology, and product
-🚀 Advocate for AI, Agile, Lean, DevOps, and SRE practices that enable high-performing teams
-🧙‍♂️ 15+ years in leadership roles across blue-chip companies, startups, and scaleups (200+ engineers)
-🖥️ Software engineering background
+💥 Impact-driven leader focused on people, technology, and product</BR>
+🚀 Advocate for AI, Agile, Lean, DevOps, and SRE practices that enable high-performing teams</BR>
+🧙‍♂️ 15+ years in leadership roles across blue-chip companies, startups, and scaleups (200+ engineers)</BR>
+🖥️ Software engineering background</BR>
 
 I’m also an international speaker, book author, community founder, conference organizer, and podcast host, actively sharing insights on leadership, engineering culture, and scaling organizations.
 
